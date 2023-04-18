@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from "react-router-dom"
+import { Route, Link } from "react-router-dom"
 import NavBar from "../NavBar";
 
 function Header() {
@@ -8,7 +8,7 @@ function Header() {
     <header className="flex-row px-1">
       <div className="logo">
         <h1>
-        <Link to="/">Kara Krzystan</Link>
+        <Link to="/">Andy Nguyen</Link>
         </h1>
       </div>
       <NavBar></NavBar>
