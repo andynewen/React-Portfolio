@@ -3,9 +3,9 @@ import React from 'react';
 import PlaceHolderOne from "../../assets/images/placeholder_1_600.jpg";
 import PlaceHolderTwo from "../../assets/images/placeholder_2_600.jpg";
 import PlaceHolderThree from "../../assets/images/placeholder_3_600.jpg";
-import LookUp from "../../assets/images/placeholder_1_600.jpg";
-import MakeAppoint from "../../assets/images/placeholder_1_600.jpg";
-import FinalProject from "../../assets/images/placeholder_1_600.jpg" ;
+import LookUp from "../../assets/images/placeholder_3_600.jpg";
+import MakeAppoint from "../../assets/images/placeholder_3_600.jpg";
+import FinalProject from "../../assets/images/placeholder_3_600.jpg";
 
 function Portfolio() {
   return (
@@ -21,10 +21,10 @@ function Portfolio() {
             />
             <div class="card-body">
 
-              <a href="https://github.com/andynewen" target="_blank" rel="noreferrer">
+              <a href="https://github.com/dyalnpahm/australian-travel-guide" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/andynewen" target="_blank" rel="noreferrer">
+              <a href="https://github.com/dyalnpahm/australian-travel-guide" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -40,10 +40,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/andynewen" target="_blank" rel="noreferrer">
+              <a href="https://github.com/Lhoole/Fitness-Tracker" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/andynewen">
+              <a href="https://github.com/Lhoole/Fitness-Tracker" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -58,10 +58,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/andynewen" target="_blank" rel="noreferrer">
+              <a href="https://github.com/Lhoole/Fitness-Tracker" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/andynewen">
+              <a href="https://github.com/Lhoole/Fitness-Tracker" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -113,10 +113,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/andynewen" target="_blank" rel="noreferrer">
+              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/andynewen" target="_blank" rel="noreferrer">
+              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
